@@ -44,6 +44,8 @@ app.use("/api/menu", require("./routes/menuRoutes"));
 app.use("/api/order", require("./routes/orderRoutes"));
 
 // ⚠ IMPORTANT: use server.listen not app.listen
-server.listen(5000, "0.0.0.0", () => 
-  console.log("Server running on 5000")
-);
+const PORT = process.env.PORT || 5000;
+
+server.listen(PORT, "0.0.0.0", () => {
+  console.log(`Server running on ${PORT}`);
+});
