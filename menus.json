@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Normal Shawarma",
+    "description": "Classic chicken shawarma roll",
+    "price": 50,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Shawarma"
+  },
+  {
+    "name": "Spl Shawarma",
+    "description": "Special loaded shawarma",
+    "price": 90,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Shawarma"
+  },
+  {
+    "name": "Full Grill",
+    "description": "Full grilled chicken",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+    "category": "Grill"
+  },
+  {
+    "name": "Half Grill",
+    "description": "Half grilled chicken",
+    "price": 180,
+    "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+    "category": "Grill"
+  },
+  {
+    "name": "Kupus",
+    "description": "Arabic kuboos bread",
+    "price": 10,
+    "image": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg",
+    "category": "Extras"
+  },
+  {
+    "name": "Mynoise",
+    "description": "Garlic mayonnaise",
+    "price": 20,
+    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg",
+    "category": "Extras"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "description": "Fried rice with chicken",
+    "price": 130,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Chicken Noodles",
+    "description": "Chicken noodles",
+    "price": 130,
+    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "category": "Noodles"
+  },
+  {
+    "name": "Sezwan Chicken Rice",
+    "description": "Spicy sezwan chicken rice",
+    "price": 140,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Zezwan Chicken Noodles",
+    "description": "Spicy zezwan chicken noodles",
+    "price": 140,
+    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "category": "Noodles"
+  },
+  {
+    "name": "Beef Rice",
+    "description": "Beef fried rice",
+    "price": 110,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Sezwan Beef Rice",
+    "description": "Spicy sezwan beef rice",
+    "price": 120,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Beef Rice 1/2",
+    "description": "Half beef rice",
+    "price": 120,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Chicken Rice 1/2",
+    "description": "Half chicken rice",
+    "price": 140,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "category": "Rice"
+  },
+  {
+    "name": "Chilli Chicken",
+    "description": "Spicy chilli chicken",
+    "price": 130,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Pepper Chicken",
+    "description": "Pepper chicken",
+    "price": 140,
+    "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Chilli Beef",
+    "description": "Spicy chilli beef",
+    "price": 100,
+    "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Pepper Beef",
+    "description": "Pepper beef",
+    "price": 110,
+    "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Lollypop",
+    "description": "Chicken lollipop",
+    "price": 110,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Chicken 65",
+    "description": "Chicken 65",
+    "price": 110,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Starters"
+  },
+  {
+    "name": "Lollypop Sayce",
+    "description": "Lollipop with sauce",
+    "price": 150,
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "category": "Starters"
+  }
+]

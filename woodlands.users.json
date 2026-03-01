@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "698f79b873d2fd7b0753fe25"
+  },
+  "phone": "7200110489",
+  "email": "fazil721655@gmail.com",
+  "password": "$2b$10$eIO1sXZqwxL7K61Z/ji7cOuMMLLJt3/SP9wb3RvzyCuWFGQw/S8/S",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-02-13T19:21:28.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T06:33:09.321Z"
+  },
+  "__v": 0,
+  "loginCount": 22
+},
+{
+  "_id": {
+    "$oid": "698f7e140505dee5574a32a2"
+  },
+  "phone": "9840489878",
+  "email": "codetalk24x7@gmail.com",
+  "password": "$2b$10$2zh0ZN/tCm/aY9o/SM.DKO2WM6fwiM6jCHqd3UYxx43FJhoDXDH.y",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-02-13T19:40:05.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-16T18:13:46.241Z"
+  },
+  "__v": 0,
+  "loginCount": 21
+}]

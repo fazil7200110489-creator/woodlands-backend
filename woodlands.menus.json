@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39ea"
+  },
+  "name": "Normal Shawarma",
+  "description": "Classic chicken shawarma roll",
+  "price": 50,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Shawarma",
+  "inStock": true,
+  "updatedAt": {
+    "$date": "2026-02-16T18:18:09.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39eb"
+  },
+  "name": "Spl Shawarma",
+  "description": "Special loaded shawarma",
+  "price": 90,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Shawarma"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39ec"
+  },
+  "name": "Full Grill",
+  "description": "Full grilled chicken",
+  "price": 350,
+  "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+  "category": "Grill"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39ed"
+  },
+  "name": "Half Grill",
+  "description": "Half grilled chicken",
+  "price": 180,
+  "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+  "category": "Grill"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39ee"
+  },
+  "name": "Kupus",
+  "description": "Arabic kuboos bread",
+  "price": 10,
+  "image": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg",
+  "category": "Extras"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39ef"
+  },
+  "name": "Mynoise",
+  "description": "Garlic mayonnaise",
+  "price": 20,
+  "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg",
+  "category": "Extras"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f0"
+  },
+  "name": "Chicken Fried Rice",
+  "description": "Fried rice with chicken",
+  "price": 130,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f1"
+  },
+  "name": "Chicken Noodles",
+  "description": "Chicken noodles",
+  "price": 130,
+  "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+  "category": "Noodles"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f2"
+  },
+  "name": "Sezwan Chicken Rice",
+  "description": "Spicy sezwan chicken rice",
+  "price": 140,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f3"
+  },
+  "name": "Zezwan Chicken Noodles",
+  "description": "Spicy zezwan chicken noodles",
+  "price": 140,
+  "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+  "category": "Noodles"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f4"
+  },
+  "name": "Beef Rice",
+  "description": "Beef fried rice",
+  "price": 110,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f5"
+  },
+  "name": "Sezwan Beef Rice",
+  "description": "Spicy sezwan beef rice",
+  "price": 120,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f6"
+  },
+  "name": "Beef Rice 1/2",
+  "description": "Half beef rice",
+  "price": 120,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f7"
+  },
+  "name": "Chicken Rice 1/2",
+  "description": "Half chicken rice",
+  "price": 140,
+  "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+  "category": "Rice"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f8"
+  },
+  "name": "Chilli Chicken",
+  "description": "Spicy chilli chicken",
+  "price": 130,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39f9"
+  },
+  "name": "Pepper Chicken",
+  "description": "Pepper chicken",
+  "price": 140,
+  "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39fa"
+  },
+  "name": "Chilli Beef",
+  "description": "Spicy chilli beef",
+  "price": 100,
+  "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39fb"
+  },
+  "name": "Pepper Beef",
+  "description": "Pepper beef",
+  "price": 110,
+  "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39fc"
+  },
+  "name": "Lollypop",
+  "description": "Chicken lollipop",
+  "price": 110,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39fd"
+  },
+  "name": "Chicken 65",
+  "description": "Chicken 65",
+  "price": 110,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Starters"
+},
+{
+  "_id": {
+    "$oid": "69919367b016a1842a8c39fe"
+  },
+  "name": "Lollypop Sayce",
+  "description": "Lollipop with sauce",
+  "price": 150,
+  "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+  "category": "Starters"
+}]
