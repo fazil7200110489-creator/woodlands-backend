@@ -12,7 +12,7 @@ const server = http.createServer(app);
 // 🔥 Socket Setup
 const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: "https://woodlands-frontend.vercel.app",
     methods: ["GET", "POST", "PUT"]
   }
 });
